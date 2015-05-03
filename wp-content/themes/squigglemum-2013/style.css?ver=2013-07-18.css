@@ -1,0 +1,13 @@
+/*
+Theme Name: SquiggleMum 2013 Theme
+Theme URI: http:/squigglemum.com/
+Description:
+Author: Damon Oehlman
+Author URI: http://about.me/damonoehlman/
+Template: squigglemum-2013
+Version: 0.1.0
+*/
+@import url('css/normalize.css');
+@import url('css/fonts.css');
+@import url('css/main.css');
+@import url('css/main-desktop.css') screen and (min-width: 800px);
